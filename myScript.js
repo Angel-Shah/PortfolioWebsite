@@ -1,7 +1,7 @@
 function showbutton(){
     document.getElementById("Rezbutton").style.visibility="visible";
 }
-setTimeout("showbutton()",3000);
+setTimeout("showbutton()",3200);
 
 function showName(){
 document.getElementById("name").style.visibility="visible";
