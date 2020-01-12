@@ -14,6 +14,8 @@ go out of my way and learn the different tips and tricks of HTML/CSS.
 
 <b> Currently, the overall design and framework of the website is finished and can be seen as the website is online, though the information
 still needs to be filled out.
+  
+  Visit website: https://angel-shah.github.io/PortfolioWebsite/
 
 
 ![](images/framework.PNG)
